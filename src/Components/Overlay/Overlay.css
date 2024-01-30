@@ -1,0 +1,8 @@
+.overlay{
+    border-width: 10px ;
+    border-style:solid ;
+    border-image: linear-gradient(to right,#a49123,#47463d,#49473c,#434136);
+    border-image-slice: 1;
+    pointer-events: none;
+    z-index: 20;
+}
